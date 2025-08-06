@@ -1,0 +1,16 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.yourcompany</groupId>
+  <artifactId>your-microservices-repo</artifactId>
+  <version>1.0.0</version>
+  <packaging>pom</packaging>
+
+  <modules>
+    <module>service-discovery</module>
+    <module>api-gateway</module>
+    <module>user-service</module>
+    <module>order-service</module>
+    <module>inventory-service</module>
+    <!-- Add more modules as needed -->
+  </modules>
+</project>
